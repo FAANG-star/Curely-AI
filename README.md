@@ -74,8 +74,8 @@ Get beautifully designed medical reports with:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/aarabii/curely.git
-   cd curely
+   git clone https://github.com/FAANG-star/Curely-AI.git
+   cd Curely-AI
    ```
 
 2. **Install dependencies**
@@ -155,7 +155,7 @@ Get beautifully designed medical reports with:
 ## 📁 Project Structure
 
 ```
-curely/
+Curely-AI/
 ├── app/
 │   ├── (auth)/               # Auth pages (sign-in, sign-up)
 │   ├── (routes)/dashboard/   # Main dashboard
@@ -298,4 +298,4 @@ MIT License - see LICENSE file
 
 ## 👥 Team
 
-Built with ❤️ by [@aarabii](https://github.com/aarabii)
+Built with ❤️ by [FAANG-star](https://github.com/FAANG-star)
